@@ -9,11 +9,17 @@ h1 {
   font-family: Arial;
 }
 nav {
-  background-color: #000000
+  background-color: #ffffff;
+  height: 50px;
 }
-nav a{
-  background-color: #ffffff
+nav button{
+  background-color: #ffffff;
 }
-nav a:hover {
-  background-color: #224bab
+nav button:hover {
+  background-color: #4287f5;
+  color: #000000;
+}
+.navd {
+  width= auto;
+  height= auto;
 }
